@@ -2,7 +2,7 @@ stripe-ios
 ==========
 
 Charge credit card for ios 5.0 by Stripe API
-This is a updated version from Brian Collins's SDK
+This is a updated version from Brian Collins's SDK: https://github.com/briancollins/stripe-ios
 
 This library charges credit card in the amount of cent. It takes parameters of user's secrete key, card information (card number, expire year & month, security code), amount and currency.
 *****************************************
@@ -12,7 +12,7 @@ Usage:
 
 2. Import the header file
    
-   #import "Stripe.h"
+   \#import "Stripe.h"
 
 3. Initialize StripeConnection with your Stripe secrete key and token.
 
