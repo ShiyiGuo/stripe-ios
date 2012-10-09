@@ -16,7 +16,7 @@ Usage:
 
 3. Initialize StripeConnection with your Stripe secrete key and token.
 
-   StripeConnection *stripe = [StripeConnection connectionWithPublishableKeyAndToken:@"sk_zAWnpWaVWqzhuXy0BNfoVB1CJLQ8G" token:@"charges"];
+   StripeConnection *stripe = [StripeConnection connectionWithPublishableKeyAndToken:@"sk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" token:@"charges"];
 
 4. Create card object and add card information.
 
